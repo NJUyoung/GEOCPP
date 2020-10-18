@@ -1,0 +1,1 @@
+/usr/bin/g++  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/ruby/lib CMakeFiles/GEOCPP2.dir/main.cpp.o  -o GEOCPP2 

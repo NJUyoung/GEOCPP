@@ -1,0 +1,3 @@
+/Users/young/Documents/GEO/GEOCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/young/Documents/GEO/GEOCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/young/Documents/GEO/GEOCPP/cmake-build-debug/CMakeFiles/GEOCPP2.dir

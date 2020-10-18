@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/young/Documents/GEO/GEOCPP/GEO.h
+vector
+-
+fstream
+-
+queue
+-
+
+/Users/young/Documents/GEO/GEOCPP/main.cpp
+iostream
+-
+fstream
+-
+time.h
+-
+string
+-
+vector
+-
+math.h
+-
+GEO.h
+/Users/young/Documents/GEO/GEOCPP/GEO.h
+
